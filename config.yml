@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://brilliant-swan-04d887.netlify.app/"
 languageCode: en-us
 title: My Site
 theme: "hyde"
