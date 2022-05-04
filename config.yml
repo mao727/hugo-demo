@@ -1,0 +1,14 @@
+baseURL: 
+languageCode: en-us
+title: My Site
+theme: "hyde"
+
+Menus:
+  main:
+    - Name: "Resume"
+      URL: "/resume.pdf"
+    - Name: "LinkedIn"
+      URL: "https://www.linkedin.com/in/xiaoyuan-melissa-m-600b20196/"
+
+params:
+  description: "Hi, This is Melissa, a Master of Engineering in Financial Engineering student at Cornell. Welcome to my site."
