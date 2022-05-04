@@ -8,6 +8,8 @@ draft: false
 
 Hi, This is Melissa. I am a Master of Engineering in Financial Engineering student at Cornell. I am passionate with strong quantitative, computational, analytics and problem-solving skills and experience in multiple financial institutions. Actively seeking opportunities in financial service in United States and Canada.
 
+<!--more-->
+
 ### Education
 - **Master of Engineering**, *Cornell University*, Ithaca, NY, United States, Expected 2022
 - **Honours Bachelor of Science**, *University of Toronto*, Toronto, ON, Canada, 2021
